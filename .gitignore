@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+dist/
+.env
+
+# Python (por si algún día lo traicionas al JavaScript)
+__pycache__/
+*.pyc
+
+# Logs
+*.log
